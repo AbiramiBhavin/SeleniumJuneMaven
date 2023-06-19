@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T20:45:50 IST" name="Default suite" finished-at="2023-06-15T20:46:09 IST" duration-ms="18248">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T20:45:50 IST" name="Default test" finished-at="2023-06-15T20:46:09 IST" duration-ms="18248">
+      <class name="TestingsiteusingNG.testinhNG">
+        <test-method signature="tc01()[pri:1, instance:TestingsiteusingNG.testinhNG@313ac989]" started-at="2023-06-15T20:45:50 IST" name="tc01" finished-at="2023-06-15T20:46:07 IST" duration-ms="16633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method signature="tc02()[pri:2, instance:TestingsiteusingNG.testinhNG@313ac989]" started-at="2023-06-15T20:46:07 IST" name="tc02" finished-at="2023-06-15T20:46:08 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method signature="tc03()[pri:3, instance:TestingsiteusingNG.testinhNG@313ac989]" started-at="2023-06-15T20:46:08 IST" name="tc03" finished-at="2023-06-15T20:46:08 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method signature="tc05()[pri:5, instance:TestingsiteusingNG.testinhNG@313ac989]" started-at="2023-06-15T20:46:08 IST" name="tc05" finished-at="2023-06-15T20:46:08 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+        <test-method signature="tc04()[pri:4, instance:TestingsiteusingNG.testinhNG@313ac989]" started-at="2023-06-15T20:46:08 IST" name="tc04" finished-at="2023-06-15T20:46:09 IST" depends-on-methods="TestingsiteusingNG.testinhNG.tc05" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+      </class> <!-- TestingsiteusingNG.testinhNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
